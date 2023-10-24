@@ -1,0 +1,19 @@
+.navbar{
+    height: 100px;
+    background-color: white;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.1);
+    top: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.navbar ul li{
+    margin-right: 10px;
+}
